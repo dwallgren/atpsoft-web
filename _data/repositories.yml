@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - eegrok
+  - pquimo
 
 github_repos:
-  - alshedivat/al-folio
+  - atpsoft/JadeTasksFeedback
   - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
