@@ -18,8 +18,9 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
 end
+
 group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
 end
-gem 'github-pages', >='3.2.33',group: :jekyll_plugins
+ 
