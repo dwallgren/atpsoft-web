@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Here is a list of our current projects found on the apple store for IOS.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [work, fun, learning, productivity]
 horizontal: false
 ---
 
