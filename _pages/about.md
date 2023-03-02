@@ -2,21 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: 'A software company for the people by the people, I guess'
+subtitle: 'Our philosophy is that All Things are Possible -- codewise at least.'
 profile:
   align: right
-  image: prof_pic.jpg
+  image: atplogo.png
   image_circular: false
   address: >
-    <p>555 your office number</p> <p>123 your address street</p> <p>Your City,
-    State 12345</p>
+    <p></p>
 news: true
 selected_papers: false
-social: true
+social: false
 published: true
 ---
 
-We are a group of developers out to make your life easier.  Give us time but we will change the way you task!!
+Our name is inspired by the <a href="https://en.wikipedia.org/wiki/Adenosine_triphosphate">ATP molecule</a>.<br />
+
+We are a small development shop started by two brothers that were tired of dealing with software that was good but incomplete.  Our goal in everything we do is to make
+software that is both usable and extremely functional.  We started with a task mangement software (Jade tasks) that we are working towards making the most usable and functional task management software that was ever developed. Give us time and we will change the way you task!!
 
 <!--
 No Test [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
