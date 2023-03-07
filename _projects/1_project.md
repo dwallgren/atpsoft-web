@@ -3,9 +3,11 @@ layout: page
 title: Jade arithmetic
 description: An amazing piece of software to help learning math!
 img: assets/img/jade-arithmetic.jpg
-importance: 1
+importance: 2
 category: learning
 ---
+
+<b>To get the latest version please visit the app store at <a href="https://apps.apple.com/app/apple-store/id1667200478?pt=119369382&ct=atpsoft.com&mt=8" target="_blank">Jade Arithmetic</a>.</b>
 
 Jade Arithmetic will let you practice and improve your arithmetic skills -- multiplication, division, addition, and subtraction.
 

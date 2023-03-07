@@ -3,9 +3,10 @@ layout: page
 title: Jade Tasks
 description: Task management sotware that will change your life!
 img: assets/img/jade-tasks.jpg
-importance: 2
+importance: 1
 category: productivity
 ---
+<b> To get the latest version please visit the app store at <a href="https://apps.apple.com/app/apple-store/id1639946142?pt=119369382&ct=atpsoft.com&mt=8" target="_blank">Jade Tasks</a>. </b>
 
 My brother and I were using to-do list apps that were not working for us as well as we wanted. So we decided to build one. We are now both using JadeTasks instead of our previous apps. It's not done - there are still features we need for ourselves.
 

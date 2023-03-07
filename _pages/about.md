@@ -18,7 +18,7 @@ published: true
 Our name is inspired by the <a href="https://en.wikipedia.org/wiki/Adenosine_triphosphate">ATP molecule</a>.<br />
 
 We are a small development shop started by two brothers that were tired of dealing with software that was good but incomplete.  Our goal in everything we do is to make
-software that is both usable and extremely functional.  We started with a task mangement software (Jade tasks) that we are working towards making the most usable and functional task management software that was ever developed. Give us time and we will change the way you task!!
+software that is both usable and extremely functional.  We started with a task management software (Jade tasks) that we are working towards making the most usable and functional task management software that was ever developed. Give us time and we will change the way you task!!
 
 <!--
 No Test [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
